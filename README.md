@@ -23,7 +23,3 @@ This makes it easier to turn data into more engaging, human-friendly content for
 2. Run the notebook cells to explore the dataset and view charts.
 3. Review the visualization ideas and use the design assets in `Infographic Design Suite_Folder/` if you want to create an infographic or presentation.
 
-## Notes
-
-- The project is intentionally simple and easy to extend.
-- You can build on this by adding more data visualizations, refining the notebook analysis, or creating polished infographic layouts.
